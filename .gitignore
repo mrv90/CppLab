@@ -1,0 +1,9 @@
+/.git
+/.vs 
+/Debug
+/x64
+/CppProject/Debug
+/CppProject/x64
+/CppProject/CppProject.vcxproj
+/CppProject/CppProject.vcxproj.filters
+/CppProject/CppProject.vcxproj.user
